@@ -1,0 +1,15 @@
+{
+  "name": "Domkvět",
+  "short_name": "Domkvět",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7f2",
+  "theme_color": "#f7d7c4",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
